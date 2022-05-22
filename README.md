@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amiyakumarm
+- 5+ years of IT experience with diverse skill sets in UI, Enterprise Application Integration, JEE-Web based & Javascript based N tier & Client-Server application development.
+- Worked in various roles such as Technical Team Lead, Senior Java Developer, UI Developer, Java Developer, etc.
+- Experience in Analysis and Design at all stages of software development life cycle (SDLC) using UML, MS Visio, and Rational Rose lifecycle – involved from gathering requirements, writing functional/technical specifications till the final delivery and roll-out of the project.
+- Expert in Design Patterns, Java, JEE, JPA, JSP, Servlets, XML, JavaScript, HTML, Web Services, SOAP, REST/RESTful, SOA, and frameworks like Struts, Spring, Hibernate, etc. Having very good hands-on experience on AngularJS, Angular, ReactJS, HTML 5 & CSS 3
+- Having hands-on experience in handling Architectural documents (MVC, Domain driven Architect, Micro Services), Use Cases, Functional Specifications, Knowledge Transfers, and Business Analysis.
+- Experience in the Finance domain (Credit Card, Equity, Funds), Retail domain (Sale, Service), CRM, ERP, eCommerce, Security, etc.
+- Worked in most of the development methodology like Waterfall, RUP, Agile (Scrum, ABC, Extreme Programming (XP), pair programming, etc.), Test-driven development (TDD), Component driven development, etc.
+- Strong project management and team leading experience with excellent communication and client relationship management skills.
